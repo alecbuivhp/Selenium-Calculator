@@ -1,15 +1,10 @@
-| **Student ID** | **Name**          |
-| -------------- | ----------------- |
-| 18127185       | Bùi Vũ Hiếu Phụng |
-
-
-
 # Homework 4. Selenium
 
 ## Project execution
 
 - Below tree is the structure of full project
 
+```
 Project
 ├── extent-reports
 │   └── extent-report.html
@@ -47,7 +42,7 @@ Project
     │   └── testcase.xlsx
     ├── testng.xml
     └── TestReport.java
-
+```
 
 
 * Due to file size limit, dependencies and web drivers can be download from this [link](https://drive.google.com/drive/folders/1ID_a4ZGzbs-b9skZ0CuttkGKPD7iwb44?usp=sharing)
@@ -63,18 +58,3 @@ Project
 * Project playlist: https://www.youtube.com/playlist?list=PLDB7kBffhGeNMfx4Lr5nZPNyZFv7KWSkO
   * Test execution: https://youtu.be/LYz_74KKjfs
   * Test report: https://youtu.be/00SzOWRoR6o
-
-
-
-## Self-assessment
-
-| **Requirement** | **Outcomes**                                                 | **Grade** | **Self-Assessment grade** |
-| --------------- | ------------------------------------------------------------ | --------- | ------------------------- |
-| 1               | Test cases for "Calculate function" should cover all cases with required template | 2         | 2                         |
-| 2               | Selenium scripts for "Calculate function" should cover all cases which are designed in [1] | 2         | 2                         |
-| 3               | Selenium Scripts for “Calculate function” run correctly with provided test data | 2         | 2                         |
-| 4               | Capture video for test executions                            | 2         | 2                         |
-| 5               | Use at least 3 Selenium WebDrivers for different browsers    | 1         | 1                         |
-| 6               | Write test report                                            | 1         | 1                         |
-|                 | **Total**                                                    | 10        | 10                        |
-
